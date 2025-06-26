@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Satvic!
 
-<!--
-**bajpaisatvic/bajpaisatvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**
 
-Here are some ideas to get you started:
+* 💻 I’m passionate about **web development**, **AI**, and **computer vision**
+* 🧠 Previously worked on: `Artificial Intelligence` and `Computer Vision` based **facial recognition technique for missing person recognition** and **gender detection projects**
+* 🌱 Learning: `React`, `Tailwind CSS`, `Node.js`, `YOLO`, `MediaPipe`
+* 🏆 Achievements:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * Finalist at **Smart India Hackathon 2024**
+  * Runner-up at **IIIT Lucknow hackathon 2025**
+* 💬 Ask me about: `AI projects`, `web dev`, `coding challenges`
+
+---
+
+📫 **How to reach me**
+
+* ✉️ Email: `satvicbajpai@gmail.com`
+* 🔗 [LinkedIn](https://www.linkedin.com/in/satvic-bajpai-33a554200/)
+
+
+---
+
+
+✨ **Quote**
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
