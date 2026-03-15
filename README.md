@@ -90,25 +90,25 @@ const satvic = {
 <table>
   <tr>
     <td>
-      <strong>🏢 Backend Developer Intern — Keplor.AI</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Aug_2025-Present-7c3aed?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Built async Django APIs integrating ML inference pipelines serving <strong>1000+ concurrent users</strong>. Designed fault-tolerant assessment services with modular APIs enabling independent scaling. Improved throughput via async execution and query optimization. Stack: <strong>Python, Django, AWS S3, MySQL</strong>.
-    </td>
-  </tr>
-  <tr><td>&nbsp;</td></tr>
-  <tr>
-    <td>
       <strong>🏦 Graduate Engineer Intern — Zeta (Fintech)</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Jan_2026-Jun_2026-0A66C2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Jan_2026-Present-0A66C2?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td>
       Upcoming role in <strong>Fintech Backend Systems, APIs & Distributed Services</strong>.
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td>
+      <strong>🏢 Backend Developer Intern — Keplor.AI</strong> &nbsp;
+      <img src="https://img.shields.io/badge/Aug_2025-Dec_2025-7c3aed?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Built async Django APIs integrating ML inference pipelines serving <strong>1000+ concurrent users</strong>. Designed fault-tolerant assessment services with modular APIs enabling independent scaling. Improved throughput via async execution and query optimization. Stack: <strong>Python, Django, AWS S3, MySQL</strong>.
     </td>
   </tr>
   <tr><td>&nbsp;</td></tr>
