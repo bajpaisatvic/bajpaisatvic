@@ -29,7 +29,7 @@ const satvic = {
   education:   "B.Tech CSE @ IET Lucknow (CGPA: 8.91) — Class of 2026",
   current:     "SWE Intern @ Zeta (Fintech) — Jan 2026–Present",
   strengths:   ["Java · Spring Boot · Microservices", "Distributed Systems", "Event-Driven Architecture", "DSA"],
-  stack:       ["Java", "Spring Boot", "Python", "Django", "Node.js", "PostgreSQL", "Redis", "Kinesis"],
+  stack:       ["Java", "Spring Boot", "Python", "Django", "Node.js", "PostgreSQL", "Redis", "Kafka", "Docker", "Kinesis"],
   competitive: { leetcode: "200+ solved", codechef: "3-Star (1682)", tuf: "400+ solved" },
   achievements: ["SIH 2024 Finalist (Top 5/200+)", "Adobe GenSolve Top 5% globally"],
   motto:       "1000+ problems solved. Still learning. Always building. 🚀"
@@ -38,6 +38,7 @@ const satvic = {
 
 - 🏦 Currently: **SWE Intern @ Zeta** — building production fintech microservices (Java · Spring Boot · PostgreSQL · Amazon Kinesis)
 - 🏢 Previously: **Backend Dev Intern @ Keplor.AI** — Django APIs with ML pipeline integration
+- 🔍 Recently built: **DeadLink** — distributed broken link detector (Kafka + Docker + 3 microservices + CI/CD)
 - 🧠 Passionate about **distributed systems, event-driven architecture, and scalable backend design**
 - 🏆 **SIH 2024 Finalist** (Top 5 of 200+ teams) & **Adobe GenSolve Top 5% globally**
 - ⚡ **1000+ DSA problems** solved across LeetCode, CodeChef & TakeUForward
@@ -52,6 +53,7 @@ const satvic = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Amazon Kinesis](https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Languages
@@ -84,6 +86,9 @@ const satvic = {
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### Infra & Tools
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -128,6 +133,21 @@ const satvic = {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🔍 DeadLink — Distributed Broken Link Detector</h3>
+      <p align="center">
+        <a href="https://github.com/bajpaisatvic/deadlink">
+          <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square&logo=springboot"/>
+        </a>
+        <img src="https://img.shields.io/badge/Kafka-3_Microservices-231F20?style=flat-square&logo=apachekafka"/>
+        <img src="https://img.shields.io/badge/Docker-CI%2FCD-2496ED?style=flat-square&logo=docker"/>
+      </p>
+      <p>
+        Distributed system that crawls documentation sites, monitors every link continuously, and alerts teams when links go dead. <strong>3 decoupled microservices</strong> communicating via Apache Kafka — BFS crawler → HTTP checker → alert engine. Schema-per-service PostgreSQL, Flyway migrations, Docker Compose full stack, GitHub Actions CI/CD pushing to GHCR.
+        <br/><br/>
+        <code>Java 17</code> <code>Spring Boot</code> <code>Apache Kafka</code> <code>PostgreSQL</code> <code>Flyway</code> <code>Docker</code> <code>GitHub Actions</code> <code>JUnit 5</code> <code>Mockito</code>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">👁️ Deep Vision — Missing Person Detection</h3>
       <p align="center">
         <a href="https://github.com/bajpaisatvic/Deep_Vision">
@@ -141,6 +161,8 @@ const satvic = {
         <code>Python</code> <code>Django</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Socket.IO</code> <code>dlib</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎬 VLIB — Video Streaming Platform</h3>
       <p align="center">
@@ -156,6 +178,8 @@ const satvic = {
         <br/><br/>
         <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>MongoDB</code> <code>Cloudinary</code> <code>JWT</code> <code>Tailwind CSS</code>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
